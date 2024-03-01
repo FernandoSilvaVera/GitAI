@@ -1,6 +1,6 @@
 <?php
 
-$openai_api_key = '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'; // Replace with your actual API key
+$openai_api_key = ''; // Replace with your actual API key
 
 $ch = curl_init();
 
